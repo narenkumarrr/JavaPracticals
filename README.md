@@ -58,5 +58,6 @@ This repository includes Java programs based on the following topics:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/narenkumarrr/java-practicals.git
+   git clone  https://github.com/narenkumarrr/JavaPracticals.git
+
 
